@@ -1,7 +1,7 @@
 GCD2
 ====
 
-# The objective of this Readme file is to explain how the run_Analysis.R works. 
+The objective of this Readme file is to explain how the run_Analysis.R works. 
 
 * First, you need to download and unzip the data from Coursera assignment webpage and keep the names and structures of the folders. However, do make sure that these folders are in the correct working directory. 
 * Second, open run_analysis.R in RStudio and let in run.
